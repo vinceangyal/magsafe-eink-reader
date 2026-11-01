@@ -1,0 +1,1 @@
+# magsafe-eink-reader
